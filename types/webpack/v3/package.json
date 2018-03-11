@@ -1,6 +1,68 @@
 {
-    "private": true,
-    "dependencies": {
-        "source-map": "^0.6.0"
+  "_args": [
+    [
+      "@types/webpack@3.0.4",
+      "/home/wgarland/Documents/ui-core"
+    ]
+  ],
+  "_development": true,
+  "_from": "@types/webpack@3.0.4",
+  "_id": "@types/webpack@3.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-+LjzDICeKZI4N3PUNtzpxPA44/YvhXRBU1bUPj4PlAsquaqahksiIGnZhgZfutwSwcXCIMMu/o0zgEUyWsSkaw==",
+  "_location": "/@types/webpack",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/webpack@3.0.4",
+    "name": "@types/webpack",
+    "escapedName": "@types%2fwebpack",
+    "scope": "@types",
+    "rawSpec": "3.0.4",
+    "saveSpec": null,
+    "fetchSpec": "3.0.4"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/webpack/-/webpack-3.0.4.tgz",
+  "_spec": "3.0.4",
+  "_where": "/home/wgarland/Documents/ui-core",
+  "contributors": [
+    {
+      "name": "Qubo",
+      "url": "https://github.com/tkqubo"
+    },
+    {
+      "name": "Benjamin Lim",
+      "url": "https://github.com/bumbleblym"
+    },
+    {
+      "name": "Boris Cherny",
+      "url": "https://github.com/bcherny"
+    },
+    {
+      "name": "Tommy Troy Lin",
+      "url": "https://github.com/tommytroylin"
     }
+  ],
+  "dependencies": {
+    "@types/node": "*",
+    "@types/tapable": "*",
+    "@types/uglify-js": "*"
+  },
+  "description": "TypeScript definitions for webpack",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/webpack",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "c233330b2ff813949cf3d7d826ed12f2a57b815695d298d21503b1883eeaa446",
+  "version": "3.0.4"
 }
